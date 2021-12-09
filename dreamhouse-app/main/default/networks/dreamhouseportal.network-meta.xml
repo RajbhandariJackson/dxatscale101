@@ -27,9 +27,6 @@
     <enableUpDownVote>false</enableUpDownVote>
     <forgotPasswordTemplate>unfiled$public/CommunityForgotPasswordEmailTemplate</forgotPasswordTemplate>
     <gatherCustomerSentimentData>false</gatherCustomerSentimentData>
-    <networkMemberGroups>
-        <profile>admin</profile>
-    </networkMemberGroups>
     <networkPageOverrides>
         <changePasswordPageOverrideSetting>Standard</changePasswordPageOverrideSetting>
         <forgotPasswordPageOverrideSetting>Designer</forgotPasswordPageOverrideSetting>
